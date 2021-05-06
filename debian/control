@@ -1,0 +1,119 @@
+Source: osso-applet-textinput-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-applet-textinput-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-applet-textinput-l10n-mr
+Depends: osso-applet-textinput-l10n-ruru, osso-applet-textinput-l10n-frfr, osso-applet-textinput-l10n-frca, osso-applet-textinput-l10n-dadk, osso-applet-textinput-l10n-itit, osso-applet-textinput-l10n-svse, osso-applet-textinput-l10n-nono, osso-applet-textinput-l10n-fifi, osso-applet-textinput-l10n-nlnl, osso-applet-textinput-l10n-enus, osso-applet-textinput-l10n-dede, osso-applet-textinput-l10n-esmx, osso-applet-textinput-l10n-eses, osso-applet-textinput-l10n-cscz, osso-applet-textinput-l10n-ptpt, osso-applet-textinput-l10n-engb, osso-applet-textinput-l10n-plpl
+Description: osso-applet-textinput marketing release package
+ This is a metapackage for osso-applet-textinput to pull all the l10n packages.
+ Application developers of osso-applet-textinput should depend on
+ "osso-applet-textinput-l10n-mr0 | osso-applet-textinput-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-applet-textinput-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (cs_CZ)
+ Language files for cs_CZ osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (da_DK)
+ Language files for da_DK osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (de_DE)
+ Language files for de_DE osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (en_GB)
+ Language files for en_GB osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (en_US)
+ Language files for en_US osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (es_ES)
+ Language files for es_ES osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (es_MX)
+ Language files for es_MX osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (fi_FI)
+ Language files for fi_FI osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (fr_CA)
+ Language files for fr_CA osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (fr_FR)
+ Language files for fr_FR osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (it_IT)
+ Language files for it_IT osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (nl_NL)
+ Language files for nl_NL osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (no_NO)
+ Language files for no_NO osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (pl_PL)
+ Language files for pl_PL osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (pt_PT)
+ Language files for pt_PT osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (ru_RU)
+ Language files for ru_RU osso-applet-textinput.
+
+Package: osso-applet-textinput-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-applet-textinput (sv_SE)
+ Language files for sv_SE osso-applet-textinput.

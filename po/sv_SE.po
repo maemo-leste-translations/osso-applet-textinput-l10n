@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-textinput 20090202110754\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2009.02.02 11:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tein_fi_dual_dictionary_use"
+msgstr "Använd dubbla ordböcker"
+
+msgid "tein_fi_keyboard_layout"
+msgstr "Tangentbordslayout"
+
+msgid "tein_fi_not_in_use"
+msgstr "Används inte"
+
+msgid "tein_fi_primary_language"
+msgstr "Första språket"
+
+msgid "tein_fi_secondary_language"
+msgstr "Andra språket"
+
+msgid "tein_fi_settings_auto_capitalization"
+msgstr "Automatiska versaler"
+
+msgid "tein_fi_settings_dictionary"
+msgstr "Ordbok"
+
+msgid "tein_fi_settings_space_after_word"
+msgstr "Infoga mellanslag efter ord"
+
+msgid "tein_fi_settings_word_completion"
+msgstr "Expandering av ord"
+
+msgid "tein_fi_use_virtual_keyboard"
+msgstr "Använd virtuellt tangentbord"
+
+msgid "tein_fi_word_completion_language_empty"
+msgstr "Egen/tom"
+
+msgid "tein_ti_text_input_title"
+msgstr "Textinmatning"

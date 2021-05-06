@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-textinput 20090202110754\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2009.02.02 11:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tein_fi_dual_dictionary_use"
+msgstr "Usar dos diccionarios"
+
+msgid "tein_fi_keyboard_layout"
+msgstr "Diseño del teclado externo"
+
+msgid "tein_fi_not_in_use"
+msgstr "No está en uso"
+
+msgid "tein_fi_primary_language"
+msgstr "Idioma primario"
+
+msgid "tein_fi_secondary_language"
+msgstr "Idioma secundario"
+
+msgid "tein_fi_settings_auto_capitalization"
+msgstr "Mayúsculas automáticas"
+
+msgid "tein_fi_settings_dictionary"
+msgstr "Diccionario"
+
+msgid "tein_fi_settings_space_after_word"
+msgstr "Insertar espacio después de palabra"
+
+msgid "tein_fi_settings_word_completion"
+msgstr "Escritura predictiva"
+
+msgid "tein_fi_use_virtual_keyboard"
+msgstr "Usar teclado virtual"
+
+msgid "tein_fi_word_completion_language_empty"
+msgstr "Personalizar/Vacío"
+
+msgid "tein_ti_text_input_title"
+msgstr "Entrada de texto"
