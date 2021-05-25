@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-textinput 20090202110754\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2009-10-06 21:20+0200\n"
+"Last-Translator:\n"
+"Language-Team: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "tein_fi_dual_dictionary_use"
+msgstr "Použiť duálne slovníky"
+
+msgid "tein_fi_keyboard_layout"
+msgstr "Rozloženie hardvérovej klávesnice"
+
+msgid "tein_fi_not_in_use"
+msgstr "Nepoužíva sa"
+
+msgid "tein_fi_primary_language"
+msgstr "1. jazyk"
+
+msgid "tein_fi_secondary_language"
+msgstr "2. jazyk"
+
+msgid "tein_fi_settings_auto_capitalization"
+msgstr "Automaticky veľké písmena"
+
+msgid "tein_fi_settings_dictionary"
+msgstr "Slovník"
+
+msgid "tein_fi_settings_space_after_word"
+msgstr "Vložiť medzeru za slovo"
+
+msgid "tein_fi_settings_word_completion"
+msgstr "Automatické dokončovanie slov"
+
+msgid "tein_fi_use_virtual_keyboard"
+msgstr "Použiť virtuálnu klávesnicu"
+
+msgid "tein_fi_word_completion_language_empty"
+msgstr "Vlastný/Prázdny"
+
+msgid "tein_ti_text_input_title"
+msgstr "Vkladanie textu"
